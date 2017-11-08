@@ -1,3 +1,4 @@
+
 const multiplyByTen = (num) => {
   return num * 10;
 };
