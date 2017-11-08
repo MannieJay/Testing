@@ -279,5 +279,4 @@ describe('Project-1 Functions', () => {
       assert.equal(largestNumber, 40);
     });
   });
-
 });
